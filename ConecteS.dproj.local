@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/14 16:41:28.000.518,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/14 16:49:55.000.400,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_login.pas</Transaction>
+    <Transaction>2023/04/14 16:49:55.000.400,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_login.dfm</Transaction>
+    <Transaction>2023/04/14 18:49:53.000.406,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/17 08:18:37.000.208,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 08:19:20.000.992,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 08:24:01.000.955,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\conexao.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 08:24:01.000.955,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\conexao.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/17 11:10:50.000.995,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\conexao.pas=</Transaction>
+    <Transaction>2023/04/17 11:36:18.000.258,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 11:36:34.000.056,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_conexao.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/17 11:36:34.000.056,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_conexao.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 19:50:43.000.851,=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 19:51:02.000.974,C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.dfm=C:\Users\diogo\Documents\Embarcadero\Projects\tela_cadastro.dfm</Transaction>
+    <Transaction>2023/04/17 19:51:02.000.974,C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas=C:\Users\diogo\Documents\Embarcadero\Projects\tela_cadastro.pas</Transaction>
+    <Transaction>2023/04/17 20:25:32.000.277,=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 20:32:47.000.084,C:\Users\diogo\Documents\Embarcadero\Projects\tela_consulta_cliente.pas=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 20:32:47.000.084,C:\Users\diogo\Documents\Embarcadero\Projects\tela_consulta_cliente.dfm=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/17 20:34:15.000.342,C:\Users\diogo\Documents\Embarcadero\Projects\ConecteS.dproj=C:\Users\diogo\Documents\Embarcadero\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/17 20:34:46.000.669,=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 20:35:17.000.481,C:\Users\diogo\Documents\Embarcadero\Projects\tela_cadastro_cliente.pas=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/17 20:35:17.000.481,C:\Users\diogo\Documents\Embarcadero\Projects\tela_cadastro_cliente.dfm=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/21 18:49:04.000.307,=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/21 18:50:40.000.600,C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas=C:\Users\diogo\Documents\Embarcadero\Projects\tela_consulta_cliente_cadastro.pas</Transaction>
+    <Transaction>2023/04/21 18:50:40.000.600,C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.dfm=C:\Users\diogo\Documents\Embarcadero\Projects\tela_consulta_cliente_cadastro.dfm</Transaction>
+    <Transaction>2023/04/24 16:21:47.000.331,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 16:23:34.000.777,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_consulta_cliente_conexao.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/24 16:23:34.000.777,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_consulta_cliente_conexao.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 19:54:13.000.046,=C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 20:04:56.000.707,C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.dfm=C:\Users\diogo\Documents\Embarcadero\Projects\tela_agenda.dfm</Transaction>
+    <Transaction>2023/04/24 20:04:56.000.707,C:\Users\diogo\Documents\Embarcadero\Projects\Unit1.pas=C:\Users\diogo\Documents\Embarcadero\Projects\tela_agenda.pas</Transaction>
+    <Transaction>2023/04/26 13:13:41.000.459,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_agenda.pas=</Transaction>
+    <Transaction>2023/05/05 08:17:41.000.989,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 09:36:29.000.794,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro_usuario.dfm</Transaction>
+    <Transaction>2023/05/05 09:36:29.000.794,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro_usuario.pas</Transaction>
+    <Transaction>2023/05/05 11:37:15.000.277,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 11:38:28.000.673,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_consulta_cliente_usuario.pas</Transaction>
+    <Transaction>2023/05/05 11:38:28.000.673,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_consulta_cliente_usuario.dfm</Transaction>
+    <Transaction>2023/05/08 11:27:57.000.918,=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 11:30:40.000.422,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_senha.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 11:30:40.000.422,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_senha.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/08 11:44:43.000.527,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_senha_usuario.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_senha.dfm</Transaction>
+    <Transaction>2023/05/08 11:44:43.000.527,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_senha_usuario.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_senha.pas</Transaction>
+  </Transactions>
+</BorlandProject>

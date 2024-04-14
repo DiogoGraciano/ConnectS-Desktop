@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/24 20:56:29.000.412,=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 20:58:15.000.650,C:\Users\diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\tela_ramal.pas</Transaction>
+    <Transaction>2023/04/24 20:58:15.000.650,C:\Users\diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\tela_ramal.dfm</Transaction>
+    <Transaction>2023/04/24 21:16:23.000.068,C:\Users\diogo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\ramal.dproj</Transaction>
+    <Transaction>2023/04/24 21:16:30.000.818,=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 21:21:54.000.385,C:\Users\diogo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro.pas</Transaction>
+    <Transaction>2023/04/24 21:21:54.000.385,C:\Users\diogo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro.dfm</Transaction>
+    <Transaction>2023/04/24 21:32:06.000.077,C:\Users\diogo\Documents\Embarcadero\Studio\Projects\ramal.dproj=C:\Users\diogo\Documents\Embarcadero\Studio\Projects\ramal.dproj</Transaction>
+    <Transaction>2023/04/25 15:52:10.000.652,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro_ramal.dfm=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro.dfm</Transaction>
+    <Transaction>2023/04/25 15:52:10.000.652,C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro_ramal.pas=C:\Users\Diogo\Documents\Embarcadero\Studio\Projects\tela_cadastro.pas</Transaction>
+  </Transactions>
+</BorlandProject>

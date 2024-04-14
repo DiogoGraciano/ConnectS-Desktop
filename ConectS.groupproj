@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{67AF4B55-1CF3-421E-A1FA-FA920726608A}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Agenda.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ConecteS.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ramal.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Agenda">
+        <MSBuild Projects="Agenda.dproj"/>
+    </Target>
+    <Target Name="Agenda:Clean">
+        <MSBuild Projects="Agenda.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Agenda:Make">
+        <MSBuild Projects="Agenda.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ConecteS">
+        <MSBuild Projects="ConecteS.dproj"/>
+    </Target>
+    <Target Name="ConecteS:Clean">
+        <MSBuild Projects="ConecteS.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ConecteS:Make">
+        <MSBuild Projects="ConecteS.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ramal">
+        <MSBuild Projects="ramal.dproj"/>
+    </Target>
+    <Target Name="ramal:Clean">
+        <MSBuild Projects="ramal.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ramal:Make">
+        <MSBuild Projects="ramal.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Agenda;ConecteS;ramal"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Agenda:Clean;ConecteS:Clean;ramal:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Agenda:Make;ConecteS:Make;ramal:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
